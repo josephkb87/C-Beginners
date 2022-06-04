@@ -1,0 +1,1 @@
+MinGW not found at: D:\source\repos\CLionProjects Configure Disable profile
