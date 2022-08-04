@@ -3,4 +3,4 @@ project(CLionProjects)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CLionProjects main.cpp)
+add_executable(CLionProjects main.cpp main2.cpp main2.h)

@@ -1,1 +1,1 @@
-MinGW not found at: D:\source\repos\CLionProjects Configure Disable profile
+MinGW not found at: C:\msys64\mingw32 Configure Disable profile
